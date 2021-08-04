@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Aurora";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/Aurora.ttf");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/Roboto.ttf");
+}
+@font-face {
+    font-family: "Sfudinengalt";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/Sfudinengalt.ttf");
+}
